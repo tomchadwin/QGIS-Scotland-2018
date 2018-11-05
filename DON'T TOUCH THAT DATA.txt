@@ -87,4 +87,33 @@ PETITION
 31. * But that means further away = higher, so invert (because this could lead 
     to vastly tall features, use logarithmic scale)
     
+32. * Walls next - here's the QGIS 2.5d code
 
+33. * Add in our inverted distance for height
+
+34. * We now have isometric blocks
+
+35. But there is no wall shading, so appear totally flat
+
+36. * Back to the QGIS 2.5d renderer wall colour data-defined override
+
+37. * Shaded walls, but one of the back walls is showing through
+
+38. * Solution: instead of extruding the whole square, extrude only the front 
+    edges
+    
+39. * Blocks complete!
+
+40. Craig Taylor said add "long" shadows
+
+41. * QGIS 2.5d renderer ones aren't great (not long, just of original feature)
+
+42. You know what this needs? A geometry generator.
+
+43. * Adapt the walls generator but at a different angle
+
+44. * After some problems with blending modes failing owing to an upstream Qt 
+    bug, and the shadows needing to be anchored using symbol levels, it's done
+    
+45. * Changed projection to look more 2.5d, labelled catchment polygons in 
+    perspective, added overlay gradient in layout, bokeh via GIMP - finished
