@@ -29,7 +29,9 @@ The Engine Shed, Stirling
 10. Could create a new layer, and generate lines between these points and the 
     location of the school
 
-8. Separate data from style (web design) - if data changes, don't have to rerun
-   all sorts of processes each time
+11. Separate data from style (web design) - if data changes, don't have to rerun
+    all sorts of processes each time
    
-9. 
+12. How? Geometry generators
+
+13.
