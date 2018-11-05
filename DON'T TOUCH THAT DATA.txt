@@ -6,3 +6,30 @@ QGIS Scotland User Group
 The Engine Shed, Stirling
 
 
+1. Me, NNPA, qgis2web, not here to talk about that
+
+2. Live in the middle of nowhere (Zoomstack)
+
+3. Greenhaugh First School
+
+4. Closure
+
+5. How could I help? Maps: increased travel to school; petitions
+
+6. Ross at FOSS4GUK 2018 - origin-destination lines, raised into third 
+   dimension, as it connotes a journey, and reduces cognitive load in 
+   interpreting the map
+
+7. Do what he did but in QGIS
+
+8. Data is postcodes of pupil addresses (point geometry)
+
+9. Origin-destination maps are lines, not points
+
+10. Could create a new layer, and generate lines between these points and the 
+    location of the school
+
+8. Separate data from style (web design) - if data changes, don't have to rerun
+   all sorts of processes each time
+   
+9. 
