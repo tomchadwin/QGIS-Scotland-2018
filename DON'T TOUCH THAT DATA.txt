@@ -69,9 +69,22 @@ PETITION
 25. * But in QGIS expression, not Python
 
 26. * Looks good, and is a polygon, but still only converted to one by the 
-    style, so 2.5D renderer remains unavailable, so we have to recreate it all 
+    style, so 2.5D renderer remains unavailable, and we have to recreate it all
     ourselves with geometry generators (which is precisely what the QGIS 2.5D 
     renderer does itself)
 
+27. * Raise the roof using translate()
+
+28. * Combined with point-to-square code, we get this (note layer var for size)
+
+29. This makes all the features the same height (1000), which makes Z axis 
+    pointless. Cannot cluster (too small dataset, plus possible projection 
+    issue)
+
+30. * Instead, stress that petition signatures are more important the closer 
+    they are to the school, so use distance from school for height
+    
+31. * But that means further away = higher, so invert (because this could lead 
+    to vastly tall features, use logarithmic scale)
     
 
