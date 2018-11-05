@@ -117,3 +117,19 @@ PETITION
     
 45. * Changed projection to look more 2.5d, labelled catchment polygons in 
     perspective, added overlay gradient in layout, bokeh via GIMP - finished
+
+EPILOGUE
+
+46. It worked: closure abandoned, related MAT proposal withdrawn, BMS closure 
+    overturned by Office of the Schools Adjudicator, but much still remains
+
+47. QGIS played its part, but to leap into generalization, with specific 
+    relevance as the US midterms are now being counted, everyone used their 
+    skills to fight a catastrophic unilateral proposal by local government. To 
+    quote Jed Bartlet:
+    
+48. Decision are made by those who turn up
+
+PS
+
+49. Find more details on Medium
