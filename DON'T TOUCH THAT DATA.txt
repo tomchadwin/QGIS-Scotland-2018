@@ -6,6 +6,7 @@ QGIS Scotland User Group
 The Engine Shed, Stirling
 
 
+
 INTRO
 
 1. Me, NNPA, qgis2web, not here to talk about that
@@ -17,6 +18,7 @@ INTRO
 4. Closure
 
 5. How could I help? Maps: increased travel to school; petitions
+
 
 TRAVEL TO SCHOOL
 
@@ -49,6 +51,7 @@ TRAVEL TO SCHOOL
 16. * Blur shadow
 
 17. * Label and caption (not v successful)
+
 
 PETITION
 
@@ -116,7 +119,9 @@ PETITION
     bug, and the shadows needing to be anchored using symbol levels, it's done
     
 45. * Changed projection to look more 2.5d, labelled catchment polygons in 
-    perspective, added overlay gradient in layout, bokeh via GIMP - finished
+    perspective, added overlay gradient in layout, bokeh via GIMP - finished 
+    ("Worst game of Risk ever!")
+
 
 EPILOGUE
 
@@ -128,8 +133,7 @@ EPILOGUE
     skills to fight a catastrophic unilateral proposal by local government. To 
     quote Jed Bartlet:
     
-48. Decision are made by those who turn up
+48. * Decision are made by those who turn up
 
-PS
 
-49. Find more details on Medium
+PS Find more details on Medium
