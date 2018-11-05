@@ -6,17 +6,21 @@ QGIS Scotland User Group
 The Engine Shed, Stirling
 
 
+INTRO
+
 1. Me, NNPA, qgis2web, not here to talk about that
 
-2. Live in the middle of nowhere (Zoomstack)
+2. * Live in the middle of nowhere (Zoomstack)
 
-3. Greenhaugh First School
+3. * Greenhaugh First School
 
 4. Closure
 
 5. How could I help? Maps: increased travel to school; petitions
 
-6. Ross at FOSS4GUK 2018 - origin-destination lines, raised into third 
+TRAVEL TO SCHOOL
+
+6. * Ross at FOSS4GUK 2018 - origin-destination lines, raised into third 
    dimension, as it connotes a journey, and reduces cognitive load in 
    interpreting the map
 
@@ -24,14 +28,37 @@ The Engine Shed, Stirling
 
 8. Data is postcodes of pupil addresses (point geometry)
 
-9. Origin-destination maps are lines, not points
+9. * Origin-destination maps are lines, not points (ECOLOGICAL ATLAS OF THE 
+   BERING, CHUKCHI, AND BEAUFORT SEAS, Daniel P Huffman)
 
 10. Could create a new layer, and generate lines between these points and the 
     location of the school
 
-11. Separate data from style (web design) - if data changes, don't have to rerun
-    all sorts of processes each time
+11. Separate data from style (web design) - if data changes, don't have to 
+    rerun all sorts of processes each time
    
-12. How? Geometry generators
+12. * How? Geometry generators (line with in situ gradient profile, by Régis 
+    Haubourg)
 
-13.
+13. * Draw line between the origin and destination using an expression
+
+14. * * Curve it (thanks to Ross and Nathan Saylor for techniques/code)
+
+15. * Add shadow
+
+16. * Blur shadow
+
+17. * Label and caption (not v successful)
+
+PETITION
+
+18. * * * Weakness for isometrics
+
+19. * Had seen amazing Craig Taylor map
+
+20. *Thought 2.5D renderer might work (Nicholas Duggan)
+
+21. 2.5D renderer only works with polygons, not points
+
+
+
