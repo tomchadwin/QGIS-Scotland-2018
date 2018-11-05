@@ -52,13 +52,26 @@ TRAVEL TO SCHOOL
 
 PETITION
 
-18. * * * Weakness for isometrics
+18. * * * * Weakness for isometrics (even made a game myself years ago)
 
 19. * Had seen amazing Craig Taylor map
 
-20. *Thought 2.5D renderer might work (Nicholas Duggan)
+20. * Thought 2.5D renderer might work (Nicholas Duggan)
 
 21. 2.5D renderer only works with polygons, not points
 
+22. Found plugin to convert points to squares
 
+23. * Python
+
+24. * Rotated by 30deg for isometric
+
+25. * But in QGIS expression, not Python
+
+26. * Looks good, and is a polygon, but still only converted to one by the 
+    style, so 2.5D renderer remains unavailable, so we have to recreate it all 
+    ourselves with geometry generators (which is precisely what the QGIS 2.5D 
+    renderer does itself)
+
+    
 
