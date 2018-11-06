@@ -52,12 +52,15 @@ TRAVEL TO SCHOOL
 
 17. * Label and caption (not v successful)
 
+THIS IS STILL A POINT DATASET, so the could be applied to a different point 
+dataset, and it would work
+
 
 PETITION
 
 18. * * * * Weakness for isometrics (even made a game myself years ago)
 
-19. * Had seen amazing Craig Taylor map
+19. * Had seen amazing Craig Taylor map - higher round one point, emphasis
 
 20. * Thought 2.5D renderer might work (Nicholas Duggan)
 
@@ -69,12 +72,14 @@ PETITION
 
 24. * Rotated by 30deg for isometric
 
-25. * But in QGIS expression, not Python
+25. * But don't want to transform the geometry (separate data from style), so 
+    convert to a geometry generator using a QGIS expression, not Python
 
-26. * Looks good, and is a polygon, but still only converted to one by the 
-    style, so 2.5D renderer remains unavailable, and we have to recreate it all
-    ourselves with geometry generators (which is precisely what the QGIS 2.5D 
-    renderer does itself)
+26. * Looks good, and is a polygon, but because still only converted to one by 
+    the style, not the geometry itself, 2.5D renderer remains unavailable, and 
+    we have to recreate it all ourselves with geometry generators (which is 
+    precisely what the QGIS 2.5D renderer does itself, and a big part of why 
+    they were implemented in QGIS)
 
 27. * Raise the roof using translate()
 
@@ -121,6 +126,9 @@ PETITION
 45. * Changed projection to look more 2.5d, labelled catchment polygons in 
     perspective, added overlay gradient in layout, bokeh via GIMP - finished 
     ("Worst game of Risk ever!")
+    
+THIS IS STILL A POINT DATASET, so as more signatures were added to the CSV, it 
+all updated without further intervention
 
 
 EPILOGUE
