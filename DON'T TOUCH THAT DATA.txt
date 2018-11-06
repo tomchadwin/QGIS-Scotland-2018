@@ -39,8 +39,8 @@ TRAVEL TO SCHOOL
 11. Separate data from style (web design) - if data changes, don't have to 
     rerun all sorts of processes each time
    
-12. * How? Geometry generators (line with in situ gradient profile, by Régis 
-    Haubourg)
+12. * How? Geometry generators, created by Matthias Kuhn for QGIS 2.14 
+    (line with in situ gradient profile, by Régis Haubourg)
 
 13. * Draw line between the origin and destination using an expression
 
@@ -143,5 +143,15 @@ EPILOGUE
     
 48. * Decision are made by those who turn up
 
+
+THANKS TO:
+- Ross McDonald
+- Nathan Saylor
+- Craig Taylor
+- Nyall Dawson
+- Hannes Kohlmann
+- Tim Sutton
+
+- all the QGIS devs, and Matthias Kuhn in particular for geometry generators
 
 PS Find more details on Medium
