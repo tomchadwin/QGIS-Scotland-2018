@@ -9,7 +9,7 @@ The Engine Shed, Stirling
 
 INTRO
 
-1. Me, NNPA, QGIS, OSGeo, qgis2web, not here to talk about that
+1. * Me, NNPA, QGIS, OSGeo, qgis2web, not here to talk about that
 
 2. * Live in the middle of nowhere (Zoomstack)
 
