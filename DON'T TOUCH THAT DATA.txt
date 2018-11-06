@@ -9,13 +9,13 @@ The Engine Shed, Stirling
 
 INTRO
 
-1. Me, NNPA, qgis2web, not here to talk about that
+1. Me, NNPA, QGIS, OSGeo, qgis2web, not here to talk about that
 
 2. * Live in the middle of nowhere (Zoomstack)
 
 3. * Greenhaugh First School
 
-4. Closure
+4. Closure (taken my time away from qgis2web so little dev since QGIS3)
 
 5. How could I help? Maps: increased travel to school; petitions
 
